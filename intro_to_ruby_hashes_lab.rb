@@ -10,8 +10,7 @@ end
 
 def monopoly
   :railroads = {}
-        monopoly.keys.count = 1
-        "monopoly.values".match{}
+       
   
 
 
