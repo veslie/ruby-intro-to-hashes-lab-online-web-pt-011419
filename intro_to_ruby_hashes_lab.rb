@@ -2,7 +2,7 @@ def new_hash
   new_hash = {}
 
 end
-actor= {:name => ""
+actor= {:name => "key"
   },
 end 
  
