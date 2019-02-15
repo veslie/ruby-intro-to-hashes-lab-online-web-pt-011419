@@ -28,15 +28,15 @@ def monopoly
       },
       :pennsylvania_railroad =>
       {
-        "mortgage_value"=>""
+        "mortgage_value" ""
       },
       :b_and_o_railroad =>
       {
-        "mortgage_value"=>""
+        "mortgage_value" ""
       },
       :shortline =>
       {
-        "mortgage_value"=>""
+        "mortgage_value" ""
         
       }
     }
