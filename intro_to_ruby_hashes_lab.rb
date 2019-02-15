@@ -9,7 +9,7 @@ actor = {name: "Dwayne The Rock Johnson"}
 end 
 
 def monopoly 
-  
+  binding.pry
  monopoly =  {
   :railroads=>
   {
