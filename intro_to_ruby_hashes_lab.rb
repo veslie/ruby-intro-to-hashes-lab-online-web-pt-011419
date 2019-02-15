@@ -9,7 +9,7 @@ actor = {name: "Dwayne The Rock Johnson"}
 end 
 
 def monopoly
-  monopoly[:railroads]{}
+  monopoly = :railroads{}
         monopoly.keys.count 1
         monopoly.values match_array{}
   
