@@ -8,8 +8,8 @@ actor = {name: "Dwayne The Rock Johnson"}
 
 end 
 
- monopoly
-  :railroads = {}
+ monopoly monopoly
+ monopoly = :railroads => {}
        
   
 
