@@ -37,6 +37,7 @@ def monopoly
       :shortline=>
       {
         "mortgage_value"=>""
+        :rent_in_dollars=>
       }
     }
   }
