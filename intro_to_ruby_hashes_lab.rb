@@ -34,7 +34,7 @@ def monopoly
       {
         "mortgage_value"=>""
       },
-      :shortline=>
+      :shortline =>
       {
         "mortgage_value"=>""
         
